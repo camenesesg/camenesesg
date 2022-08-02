@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @camenesesg
 - 👀 I’m interested in Java, Spring-boot, Apache Camel
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Typescript
 - 💞️ I’m looking to collaborate on Open Source
 - 📫 How to reach me ...
 
