@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @camenesesg
 - 👀 I’m interested in Java, Spring-boot, Apache Camel
-- 🌱 I’m currently learning Python and Typescript
+- :man_technologist: I'm woking on my personal website.
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on Open Source
-- 📫 How to reach me ...
+- 📫 How to reach me 
 
 <!---
 camenesesg/camenesesg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
